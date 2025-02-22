@@ -97,7 +97,7 @@ export default function Carrusel() {
             {data.map((d) => (
             <div key={d.id} className="py-5 px-8 bg-white text-center rounded-lg">
                 <Image
-                    src={`/images/${d.urlIamge}`}
+                    src={`/Images/${d.urlIamge}`}
                     width={64}
                     height={64}
                     className="mx-auto"

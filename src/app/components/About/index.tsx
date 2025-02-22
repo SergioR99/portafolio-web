@@ -35,7 +35,7 @@ export default function AboutSection( {title, subtitle, parrafo }: Props) {
                 </div>
                 <div>
                     <Image
-                        src="/images/perfil-1.webp"
+                        src="/Images/perfil-1.webp"
                         width={368}
                         height={490}
                         alt="Sergio Rendon"
