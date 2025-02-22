@@ -37,7 +37,7 @@ export default function HeaderPage() {
             <div className="mx-auto max-w-7xl px-2 sm:px-16 lg:px-32 flex justify-between items-center py-4">
                 <div>
                     <Image
-                        src="images/ico-logo.svg"
+                        src="/images/ico-logo.svg"
                         width={64}
                         height={41}
                         alt="Logo Sergio Rendon"
