@@ -1,4 +1,4 @@
-import { Roboto, Inconsolata } from "next/font/google";
+import { Roboto } from "next/font/google";
 import "@/app/globals.css"
 import Carrusel from "./carrousel.jsx";
 
@@ -6,12 +6,6 @@ const roboto = Roboto({
     variable: "--font-roboto",
     subsets: ["latin"],
     weight: "100"
-});
-
-const inconsolata = Inconsolata({
-    variable: "--inconsolata",
-    subsets: ["latin"],
-    weight: "500" 
 });
 
 export default function SkillSection() {

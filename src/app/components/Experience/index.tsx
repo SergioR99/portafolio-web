@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react";
-import { Roboto, Inconsolata } from "next/font/google";
+import { Roboto } from "next/font/google";
 import "@/app/globals.css"
 
 const roboto = Roboto({
