@@ -34,7 +34,7 @@ export default function HeaderPage() {
     ]
     return (
         <nav className="bg-neutral-100">
-            <div className="mx-auto max-w-7xl px-2 sm:px-16 lg:px-32 flex justify-between items-center py-4">
+            <div className="mx-auto max-w-7xl px-8 lg:px-32 flex justify-between items-center py-4">
                 <div>
                     <Image
                         src="/Images/ico-logo.svg"

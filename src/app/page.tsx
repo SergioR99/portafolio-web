@@ -12,7 +12,8 @@ export default function Home() {
       <AboutSection 
         title={"Sergio Rendon V."}
         subtitle={"Desarrollador Front-end"}
-        parrafo={"Egresado del Sena en producción de multimedia y vivo en Medellín. Apasionado por la tecnología y los videojuegos, soy una persona amable y con muy buen sentido del humor que le gusta trabajar en equipo, estar en constante crecimiento y aprender rápidamente, esforzarse para conseguir sus objetivos . Soy una persona que sabe escuchar y seguir consejos, soy creativo y propositivo en el momento de buscar soluciones a cualquier problema dado."}
+        parrafo={"Soy un desarrollador frontend apasionado por aprender de los demás y compartir mis conocimientos. Me encanta salir de mi zona de confort y enfrentar nuevos desafíos, lo que me permite crecer tanto profesional como personalmente."}
+        parrafo2={"Disfruto trabajar en equipo, ya que creo que la colaboración es clave para lograr grandes resultados. Además, soy divertido y sociable, lo que hace que el ambiente de trabajo sea más ameno y productivo."}
       />
       <SkillSection/>
       <ExperienceBlock/>
